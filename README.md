@@ -28,7 +28,7 @@ Additional Information:
 - Placement: Specifies the website or app where the advertisement is being served, without disclosing the specific names of publishers.
 
 Questions:
-•	What is the overall trend in user engagement throughout the campaign period?
+•	What is the overall trend in user engagement throughout the campaign period?\n
 •	How does the size of the ad (banner) impact the number of clicks generated?
 •	Which publisher spaces (placements) yielded the highest number of displays and clicks?
 •	Is there a correlation between the cost of serving ads and the revenue generated from clicks?
