@@ -1,7 +1,7 @@
 # Digital-Marketing-Data-Science-Project
 
-# Problem Statement and Data Description
-## Online Advertising Performance Data
+Problem Statement and Data Description
+### Online Advertising Performance Data
 
 The dataset provides insights into the online advertising performance of a company, referred to as "Company X", from April 1, 2020, to June 30, 2020. The currency used for transactions is the US dollar.
 
